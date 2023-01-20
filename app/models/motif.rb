@@ -1,0 +1,3 @@
+class Motif < ApplicationRecord    
+
+end
